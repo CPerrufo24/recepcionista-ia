@@ -23,6 +23,6 @@ Demo personal de una recepcionista telefónica con IA para una empresa ficticia:
 5. Despliegue en el Servidor y enlace para compartir.
 
 ## Pendientes al retomar
-- Nada de código todavía; la carpeta solo tiene este archivo (sin `git init` ni repo en GitHub).
+- Nada de código todavía. Repo `CPerrufo24/recepcionista-ia` creado y `main` subido (remoto por el alias `github-personal`). Sin `.env` ni servicios corriendo.
 - Decidir nombre y giro de la empresa ficticia.
 - Abrir cuentas de Vapi y Twilio.
